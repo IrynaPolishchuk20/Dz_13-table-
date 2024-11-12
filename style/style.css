@@ -4,6 +4,7 @@
 @import'./bloks/kozerog.css';
 @import'./bloks/lev.css';
 @import'./bloks/oven.css';
+@import'./bloks/scorpion.css';
 
 body{
     background-image: url(../img/horoscope_bkgr.jpg);
