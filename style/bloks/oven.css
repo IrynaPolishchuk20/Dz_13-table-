@@ -1,0 +1,17 @@
+.oven{
+    height: 700px;
+    width: 960px;
+    padding: 5px;
+    text-align: center;
+    color: whitesmoke;
+    font-size: larger;
+}
+
+.oven img{
+    width: 390px;
+    height: 300px;
+    border: 2px solid white;
+    float: right;
+    margin: 5px;
+    padding: 5px;
+}
