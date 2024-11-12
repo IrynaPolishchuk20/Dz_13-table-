@@ -21,3 +21,9 @@ th{
 td a{
     cursor: pointer;
 }
+
+td a img{
+    width: 290px;
+    height: 200px;
+
+}
