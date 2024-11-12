@@ -1,0 +1,18 @@
+body{
+    background-image: url(../img/horoscope_bkgr.jpg);
+    background-attachment: fixed;
+}
+
+table, td, th{
+    color: white;
+    border: 2px solid white;
+    width: 700px;
+    height: 70px;
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+th{
+    color: white;
+    font-size: 25px;
+}
