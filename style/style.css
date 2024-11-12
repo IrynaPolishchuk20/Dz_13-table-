@@ -6,16 +6,19 @@ body{
 table, td, th{
     color: white;
     border: 2px solid white;
-    width: 700px;
-    height: 70px;
     border-collapse: collapse;
     margin: 0 auto;
     
 }
 
-th{
+h2{
     color: white;
     font-size: 25px;
+}
+h5{
+    color: white;
+    font-size: 15px;
+    text-decoration: wavy;
 }
 
 td a{
@@ -23,7 +26,30 @@ td a{
 }
 
 td a img{
-    width: 290px;
-    height: 200px;
+    width: 150px;
+    height: 75px;
+}
 
+.fish{
+    height: 700px;
+    width: 960px;
+    padding: 5px;
+    text-align: center;
+    color: whitesmoke;
+    font-size: larger;
+}
+
+.fish img{
+    width: 390px;
+    height: 300px;
+    border: 2px solid white;
+    float: left;
+    margin: 5px;
+    padding: 5px;
+}
+
+.fish .f1{
+    color: darkgoldenrod;
+    text-align: center;
+    font-size: larger;
 }
