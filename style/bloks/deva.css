@@ -29,3 +29,27 @@ td a img{
     width: 150px;
     height: 75px;
 }
+
+.deva{
+    height: 700px;
+    width: 960px;
+    padding: 5px;
+    text-align: center;
+    color: whitesmoke;
+    font-size: larger;
+}
+
+.deva img{
+    width: 390px;
+    height: 300px;
+    border: 2px solid white;
+    float: left;
+    margin: 5px;
+    padding: 5px;
+}
+
+.deva .d1{
+    color: darkgoldenrod;
+    text-align: center;
+    font-size: larger;
+}
