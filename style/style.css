@@ -43,6 +43,10 @@ td a{
     cursor: pointer;
 }
 
+td a img:hover{
+    box-shadow:  0 0 1em gold;
+}
+
 td a img{
     width: 150px;
     height: 75px;
