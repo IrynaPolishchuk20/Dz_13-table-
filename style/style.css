@@ -1,3 +1,5 @@
+@import'./bloks/rak.css';
+
 body{
     background-image: url(../img/horoscope_bkgr.jpg);
     background-attachment: fixed;
