@@ -1,35 +1,3 @@
-body{
-    background-image: url(../style.css);
-    background-attachment: fixed;
-}
-
-table, td, th{
-    color: white;
-    border: 2px solid white;
-    border-collapse: collapse;
-    margin: 0 auto;
-    
-}
-
-h2{
-    color: white;
-    font-size: 25px;
-}
-h5{
-    color: white;
-    font-size: 15px;
-    text-decoration: wavy;
-}
-
-td a{
-    cursor: pointer;
-}
-
-td a img{
-    width: 150px;
-    height: 75px;
-}
-
 .rak{
     height: 700px;
     width: 960px;

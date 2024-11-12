@@ -1,0 +1,23 @@
+.strilets{
+    height: 700px;
+    width: 960px;
+    padding: 5px;
+    text-align: center;
+    color: whitesmoke;
+    font-size: larger;
+}
+
+.strilets img{
+    width: 390px;
+    height: 300px;
+    border: 2px solid white;
+    float: right;
+    margin: 5px;
+    padding: 5px;
+}
+
+.strilets .st1{
+    color: darkgoldenrod;
+    text-align: center;
+    font-size: larger;
+}
