@@ -1,0 +1,32 @@
+.start{
+    height: 700px;
+    width: 960px;
+    padding: 5px;
+    text-align: center;
+    color: whitesmoke;
+    font-size: 17px;
+}
+
+.start hr{
+    clear: both;
+    background-color: #cbb5bc;
+    width: 500px;
+    height: 3px;
+    margin: 0 auto;
+    border: none;
+}
+.start .w1{
+    color: aqua;
+}
+
+.start .p1{
+    color: bisque;
+}
+
+.start .z1{
+    color: darkgoldenrod;
+}
+
+.start .f1{
+    color: firebrick;
+}
