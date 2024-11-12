@@ -10,9 +10,14 @@ table, td, th{
     height: 70px;
     border-collapse: collapse;
     margin: 0 auto;
+    
 }
 
 th{
     color: white;
     font-size: 25px;
+}
+
+td a{
+    cursor: pointer;
 }
