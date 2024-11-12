@@ -2,6 +2,7 @@
 @import'./bloks/bliznetsi.css';
 @import'./bloks/deva.css';
 @import'./bloks/kozerog.css';
+@import'./bloks/lev.css';
 
 body{
     background-image: url(../img/horoscope_bkgr.jpg);
